@@ -15,4 +15,5 @@
 * [如何冲土狗-与土狗恋爱注意事项](dog/README.md)
 * [空投](airdrop/README.md)
     * [IOTA](airdrop/IOTA.md)
+    * [MechCraft](airdrop/MechCraft.md)
 * [参与文档编写](join/README.md)
