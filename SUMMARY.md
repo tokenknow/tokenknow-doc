@@ -16,4 +16,5 @@
 * [空投](airdrop/README.md)
     * [IOTA](airdrop/IOTA.md)
     * [MechCraft](airdrop/MechCraft.md)
+    * [PulseChain](airdrop/PulseChain.md)
 * [参与文档编写](join/README.md)
