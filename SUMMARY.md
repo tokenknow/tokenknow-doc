@@ -17,4 +17,5 @@
     * [IOTA](airdrop/IOTA.md)
     * [MechCraft](airdrop/MechCraft.md)
     * [PulseChain](airdrop/PulseChain.md)
+    * [Basic Attention Token](airdrop/BasicAttentionToken.md)
 * [参与文档编写](join/README.md)
