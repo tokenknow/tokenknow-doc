@@ -18,4 +18,5 @@
     * [MechCraft](airdrop/MechCraft.md)
     * [PulseChain](airdrop/PulseChain.md)
     * [Basic Attention Token](airdrop/BasicAttentionToken.md)
+* [零知识证明](zkp/README.md)
 * [参与文档编写](join/README.md)
